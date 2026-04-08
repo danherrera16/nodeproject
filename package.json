@@ -1,0 +1,20 @@
+{
+  "name": "nodeproject",
+  "version": "1.0.0",
+  "description": "projecto node",
+  "homepage": "https://github.com/danherrera16/nodeproject#readme",
+  "bugs": {
+    "url": "https://github.com/danherrera16/nodeproject/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/danherrera16/nodeproject.git"
+  },
+  "license": "MIT",
+  "author": "danilo",
+  "type": "commit",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
